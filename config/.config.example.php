@@ -26,6 +26,7 @@ $System_Config['db_host'] = 'localhost';						//数据库地址
 $System_Config['db_database'] = 'sspanel';						//数据库名
 $System_Config['db_username'] = 'root';							//数据库用户名
 $System_Config['db_password'] = 'sspanel';						//用户名对应的密码
+$System_Config['local_ip'] = 'xx.xx.xx.xx';                                             //服务器IP
 
 
 //邮件设置--------------------------------------------------------------------------------------------
